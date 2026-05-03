@@ -1,6 +1,6 @@
-# 🛡️ SHEild – Real-Time Women Safety Platform
+# 🛡️ Safe_life – Real-Time Women Safety Platform
 
-**SHEild** is a real-time women safety mobile application designed to provide quick emergency support, smart communication tools, and location-based features for enhanced personal security. Built to function even in low-connectivity areas, SHEild bridges the gap between threat detection and rapid intervention.
+It is a real-time women safety mobile application designed to provide quick emergency support, smart communication tools, and location-based features for enhanced personal security. Built to function even in low-connectivity areas, bridges the gap between threat detection and rapid intervention.
 
 ---
 
@@ -34,11 +34,3 @@
 ### 🔐 Security & Authentication
 - JWT (JSON Web Tokens) – Secure user authentication
 - HTTPS + TLS Encryption – Safe data transmission
-
----
-
-## 📲 Getting Started
-
-### Clone the repository
-```bash
-git clone https://github.com/your-username/SHEild.git
