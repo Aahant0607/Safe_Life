@@ -1,6 +1,6 @@
 # 🛡️ Safe_life – Real-Time Safety Platform
 
-It is a real-time women safety mobile application designed to provide quick emergency support, smart communication tools, and location-based features for enhanced personal security. Built to function even in low-connectivity areas, bridges the gap between threat detection and rapid intervention.
+It is a real-time safety mobile application designed to provide quick emergency support, smart communication tools, and location-based features for enhanced personal security. Built to function even in low-connectivity areas, bridges the gap between threat detection and rapid intervention.
 
 ---
 
